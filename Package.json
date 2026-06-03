@@ -1,5 +1,5 @@
 {
-  "name": "my first love",
+  "name": "puzzle-game",
   "version": "1.0.0",
   "description": "10 stages puzzle game",
   "main": "server.js",
