@@ -7,8 +7,8 @@ async function loadStage() {
     if (data.finished) {
         document.getElementById('puzzle-box').innerHTML = `
             <h2>🎉 مبروك 🎉</h2>
-            <p style="font-size:1.3rem;">${data.message || 'لقد أنهيت جميع المراحل! أنت فنان'}</p>
-            <p>شكراً للمشاركة ❤️</p>
+            <p style="font-size:1.3rem;">${data.message || 'لقد أنهيت جميع المراحل! أنتِ خلصتي اللعبه بهاي السرعه انطينه مجال'}</p>
+            <p>شكراً  ❤️</p>
         `;
         return;
     }
