@@ -21,7 +21,7 @@ function saveProgress() {
   fs.writeFileSync(PROGRESS_FILE, JSON.stringify(progress, null, 2));
 }
 
-// Telegram settings (ضع التوكن و chat id لاحقاً)
+// Telegram settings (8947928608:AAFVoWeordXH-h7AzmPBwww3UV-tCTZc_c0)
 const BOT_TOKEN = 'BOT_TOKEN_HERE';
 const CHAT_ID = 'CHAT_ID_HERE';
 
