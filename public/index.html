@@ -3,22 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-    <title>a dream? - تحدي الألغاز</title>
+    <title>?a dream - تحدي الألغاز</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div class="stars"></div>
-    <div class="twinkling"></div>
-    <div class="clouds"></div>
+    <div class="strawberry-bg"></div>
     
     <div class="container">
+        <div class="strawberry-emoji">🍓</div>
         <h1 class="game-title">✨ a dream? ✨</h1>
         <p class="subtitle">عشر مراحل | تحدٍ يومي</p>
         
         <div class="navigation-buttons">
-            <button id="prev-stage-btn" class="nav-btn" disabled>🌙 المرحلة السابقة</button>
-            <span id="stage-indicator">🌟 المرحلة <span id="stage-number">1</span> / 10</span>
-            <button id="next-stage-btn" class="nav-btn" disabled>المرحلة التالية ☀️</button>
+            <button id="prev-stage-btn" class="nav-btn" disabled>⭠ المرحلة السابقة</button>
+            <span id="stage-indicator">المرحلة <span id="stage-number">1</span> / 10</span>
+            <button id="next-stage-btn" class="nav-btn" disabled>المرحلة التالية ⭢</button>
         </div>
         
         <div id="countdown-container" style="display: none;">
@@ -30,12 +29,12 @@
         
         <div id="stage-container">
             <div id="puzzle-box">
-                <h2 id="stage-title">🌟 المرحلة 1</h2>
-                <div id="puzzle-card" class="puzzle-card">
+                <h2 id="stage-title">المرحلة 1</h2>
+                <div class="question-card">
                     <p id="puzzle-text">📖 السؤال: ...</p>
                 </div>
                 <div id="hint-box">
-                    <span class="hint-label">💫 تلميح:</span>
+                    <span class="hint-label">💡 تلميح:</span>
                     <span id="hint-text"></span>
                 </div>
                 <div id="music-player" style="margin: 15px 0;"></div>
@@ -48,13 +47,6 @@
                 </div>
                 <p id="message"></p>
             </div>
-        </div>
-    </div>
-    
-    <div id="congrats-modal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <p id="modal-message">🎉 تهانينا! 🎉</p>
         </div>
     </div>
     
