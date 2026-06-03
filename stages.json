@@ -1,23 +1,23 @@
 [
   {
     "id": 1,
-    "puzzle": "شيء يظهر في السماء مرتين في اليوم الواحد، فما هو؟ (اسم اغنيه)",
-    "hint": "",
+    "puzzle": "شيء يظهر في السماء مرتين في اليوم الواحد، فما هو؟  ",
+    "hint": " اسم اغنيه",
     "answer": "شمسين",
     "openAfterHours": 0,
     "songUrl": "https://youtu.be/CeW8OHlX4og"
   },
   {
     "id": 2,
-    "puzzle": "ستكر مميز (اكله)",
-    "hint": "",
+    "puzzle": "ستكر مميز ",
+    "hint": " ض)اكله) ",
     "answer": "ضاج لحم",
     "openAfterHours": 24,
     "songUrl": "https://youtu.be/giDZSy8ZsxU"
   },
   {
     "id": 3,
-    "puzzle": "من هو الذي يحكم بين الناس بالعدل في المحكمة؟",
+    "puzzle": " حلم كاد أن يتحقق",
     "hint": "يرتدي الجبة السوداء",
     "answer": "قاضي",
     "openAfterHours": 48,
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "puzzle": "ما هو الرقم الترتيبي الذي يأتي بعد الخامس وقبل السابع؟",
+    "puzzle": "مرحله طلعت اسوء ما في الناس وبينه",
     "hint": "",
     "answer": "سادس",
     "openAfterHours": 72,
@@ -33,16 +33,16 @@
   },
   {
     "id": 5,
-    "puzzle": "اول لقب عرفته جان متعلق بل حيوانات 😺 (اللقب بالانكليزي)",
-    "hint": "",
+    "puzzle": "اول لقب عرفته جان متعلق بل حيوانات (اللقب بالانكليزي)",
+    "hint": " 😺",
     "answer": "mother of cats",
     "openAfterHours": 96,
     "songUrl": "https://youtu.be/2nvsGz70ZT0"
   },
   {
     "id": 6,
-    "puzzle": "لقب تستعملي بكل مكان متكون من اربع احرف انكليزيه",
-    "hint": "",
+    "puzzle": "لقب تستعملي بكل مكان ",
+    "hint": " متكون من اربع احرف انكليزيه ",
     "answer": "Rose",
     "openAfterHours": 120,
     "songUrl": "https://youtu.be/qh3ccanI39c"
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "puzzle": "فاكهة حمراء لذيذة، حبوبها صغيرة على سطحها، فما هي؟",
-    "hint": "تُستخدم في صنع المربى والعصائر",
+    "hint": "تُستخدم بكل مكان عندج",
     "answer": "فراولة",
     "openAfterHours": 168,
     "songUrl": "https://youtu.be/H6WSQbYWAAU"
@@ -67,7 +67,7 @@
     "id": 9,
     "puzzle": "اشياء ممكن تخرب كلشي عند الناس",
     "hint": "ياخي چا نجحت هل سنه لو ما ال......؟",
-    "answer": "ضروف",
+    "answer": "الضروف",
     "openAfterHours": 192,
     "songUrl": "https://youtu.be/3Vxlma4Vnuw"
   },
